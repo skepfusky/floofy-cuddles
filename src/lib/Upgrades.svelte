@@ -1,3 +1,3 @@
 <aside>
-<h2>Upgrades lmao</h2>
+	<h2>Upgrades lmao</h2>
 </aside>
